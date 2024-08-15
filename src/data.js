@@ -9,7 +9,7 @@ export default [
         imagePath: "barcelona.jpg"
     },
     {
-        title: "Diamond Head",
+        title: "Diamond dHead",
         location: "USA",
         googleMapsUrl: "https://maps.app.goo.gl/AetrR5nqEXXUsk867",
         startDate: "Dec. 26, 2023",
