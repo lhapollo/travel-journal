@@ -7,7 +7,7 @@ export default function Location(props) {
       <div className="location--container">
         <img
           className="location--image"
-          src={`../public/imgs/${props.imagePath}`}
+          src={`/imgs/${props.imagePath}`}
           width="300px"
           height="400px"
         ></img>
