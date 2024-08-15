@@ -15,7 +15,7 @@ export default function Location(props) {
       <div className="location--text">
         <div className="location--gps">
           <img
-            src={"../public/imgs/marker.png"}
+            src={"/marker.png"}
             width="21px"
             height="29px"
           ></img>
